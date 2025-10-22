@@ -10,6 +10,15 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "Reactive",
+          artist: "Sakif Newaj",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/img/22.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/mp3/10.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false,
+          verified: true
+        },
+        {
           name: "Mekanın Sahibi",
           artist: "Norm Ender",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
