@@ -7,6 +7,12 @@ body {
   box-sizing: border-box;
 }
 
+.verified-icon {
+  margin-left: 5px;
+  color: #5486a5; /* Twitter blue color */
+  font-size: 14px;
+}
+
 .icon {
   display: inline-block;
   width: 1em;
