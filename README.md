@@ -1,2 +1,0 @@
-# snmusic
-SN Music Player
