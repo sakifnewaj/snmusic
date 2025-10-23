@@ -10,6 +10,177 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "NO ERA AMOR",
+          artist: "DJ Asul",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/20.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/20.mp3",
+          url: "https://youtu.be/-togqJf3NaM?si=bmieM8YkapCiEvay",
+          favorited: false,
+          verified: false
+        },
+        {
+          name: "GLORY",
+          artist: "Ogryzek",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/19.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/19.mp3",
+          url: "https://youtu.be/q5ncE4wIvfw?si=q97RGTwr57qPsJ0Z",
+          favorited: false,
+          verified: true
+        },
+        {
+          name: "FUNK DO BOUNCE (SLOWED)",
+          artist: "Ariis",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/18.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/18.mp3",
+          url: "https://youtu.be/8uKG7A6U7PY?si=f4zXxQqIjN7W7mB6",
+          favorited: false,
+          verified: false
+        },
+        {
+          name: "NEON BLADE (Sped Up)",
+          artist: "MoonDeity",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/17.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/17.mp3",
+          url: "https://youtu.be/YLWbZ7nwooU?si=cw1B_VnvxCKysHwv",
+          favorited: false,
+          verified: false
+        },
+        {
+          name: "Sahara",
+          artist: "Hensonn",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/16.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/16.mp3",
+          url: "https://youtu.be/pIZ0QRWK0zg?si=QfWZqBm8TjD2k-5S",
+          favorited: false,
+          verified: false
+        },
+        {
+          name: "CLIMA LINDO (SLOWED)",
+          artist: "GXMZ",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/15.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/15.mp3",
+          url: "https://youtu.be/P12jBX75B48?si=YI8YrOSMScJ1nKok",
+          favorited: false,
+          verified: false
+        },
+        {
+          name: "SLAY!",
+          artist: "Eternxlkz",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/14.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/14.mp3",
+          url: "https://youtu.be/qlzcHe_gusE?si=wh2ldE91ltXt9b9g",
+          favorited: false,
+          verified: true
+        },
+        {
+          name: "DIA DELÍCIA",
+          artist: "NAKAMA",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/13.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/13.mp3",
+          url: "https://youtu.be/2cnloO84LA0?si=b1yyzzpm94U-91y5",
+          favorited: false,
+          verified: true
+        },
+        {
+          name: "Deus do Olimpo",
+          artist: "TRASHXRL",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/12.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/12.mp3",
+          url: "https://youtu.be/5j51KNlqtaU?si=vJVD43OQg7MA9YNH",
+          favorited: false,
+          verified: true
+        },
+        {
+          name: "Montagem Lunar Celestia",
+          artist: "TOKYOPHILE",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/11.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/11.mp3",
+          url: "https://youtu.be/Am_UfnV-niA?si=UQy48caWGwKFAhGm",
+          favorited: false,
+          verified: true
+        },
+        {
+          name: "ODNOGO ULTRAFUNK",
+          artist: "Sakif Newaj",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/10.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/10.mp3",
+          url: "#",
+          favorited: false,
+          verified: true
+        },
+        {
+          name: "MONTAGEM COMA",
+          artist: "Elysian.",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/09.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/09.mp3",
+          url: "https://youtu.be/Sfv6OmOB1W4?si=Jr3NfxeJhetQh5Hu",
+          favorited: false,
+          verified: false
+        },
+        {
+          name: "SI AI AI",
+          artist: "BLOODTHXRN",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/08.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/08.mp3",
+          url: "https://youtu.be/abyRALqmwRE?si=VQAQulZpjqENO_LS",
+          favorited: false,
+          verified: false
+        },
+        {
+          name: "EMPIRE",
+          artist: "Ogryzek",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/07.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/07.mp3",
+          url: "https://youtu.be/L8H7J8VANQo?si=hOtyevlWNmYUTzD3",
+          favorited: false,
+          verified: true
+        },
+        {
+          name: "SLAVA FUNK!",
+          artist: "MVSTERIOUS",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/06.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/06.mp3",
+          url: "https://youtu.be/YPmxBTPyWBI?si=0B84IcTDWX0Du49a",
+          favorited: false,
+          verified: true
+        },
+        {
+          name: "NUNCA MUDA",
+          artist: "NXGHT, Scythermane",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/05.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/05.mp3",
+          url: "https://youtu.be/ZiDAbh5hY48?si=MSB9pfiwNTxl4Gzu",
+          favorited: false,
+          verified: false
+        },
+        {
+          name: "MONTAGEM BAILÃO",
+          artist: "MXZI, ATLXS",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/04.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/03.mp3",
+          url: "https://youtu.be/B9KFb_fmvV8?si=5Z9vbFHxyd_tW9bT",
+          favorited: false,
+          verified: false
+        },
+        {
+          name: "MONTAGEM SIMPIERO",
+          artist: "WHM1E",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/music/files/02.jpg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/mp3/12.mp3",
+          url: "https://youtu.be/nIk0mdn4-Bw?si=8Zj_wQ_dDEwO2JnO",
+          favorited: false,
+          verified: false
+        },
+        {
+          name: "PASSO BEM SOLTO (Slowed)",
+          artist: "Sakif Newaj",
+          cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/img/23.jpeg",
+          source: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/mp3/11.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false,
+          verified: true
+        },
+        {
           name: "Reactive",
           artist: "Sakif Newaj",
           cover: "https://raw.githubusercontent.com/sakifnewaj/snmusic/main/img/22.jpg",
@@ -19,7 +190,7 @@ new Vue({
           verified: true
         },
         {
-          name: "Mekanın Sahibi",
+          name: "Mekan覺n Sahibi",
           artist: "Norm Ender",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
